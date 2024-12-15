@@ -5,3 +5,4 @@ Component
 Custom Component
 Props
 State
+State (in Details)
